@@ -1,4 +1,4 @@
-### Hi there, This is Abhishek 👋
+### Hi there, This is Abhishek Nair 👋
 
 
 - ⌨ I'm currently pursuing my Bachelors in Information Technology from Don Bosco Institue, Mumbai
