@@ -1,7 +1,7 @@
 ### Hi there, This is Abhishek Nair 👋
 
 
-- ⌨ I'm currently pursuing my Bachelors in Information Technology from Don Bosco Institue, Mumbai
+- ⌨ I'm currently working as a Software Developer @ CCTech, Pune
 - 🌱 I’m currently learning Machine & Deep Learning
 - 👯 I’m looking to collaborate on any Data Science Projects with Python.
 - 🤔 I’m looking for help with more real-time Data Analtical Projects
